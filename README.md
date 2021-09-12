@@ -1,10 +1,10 @@
 # Basic Computer Science Concepts
 
-| Data Structures       | Algorithms           | Concepts               |
-| --------------------- | -------------------- | ---------------------- |
-| Linked Lists          | Breadth-First Search | Bit Manipulation       |
-| Trees, Tries & Graphs | Depth-First Search   | Memory (Stack vs Heap) |
-| Stacks & Queues       | Binary Search        | Recursion              |
-| Heaps                 | Merge Sort           | Dynamic Programming    |
-| Vectors, ArrayLists   | Quick Sort           | Big O Time & Space     |
-| Hash Tables           |                      |
+| Data Structures                                                                                                                                                                                                                                       | Algorithms               | Concepts                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------- |
+| [Linked Lists](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/LinkedList)                                                                                                                                                          | [Breadth-First Search]() | [Bit Manipulation ]()      |
+| [Trees](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Tree), [Tries](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Tries) & [Graphs](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Graph) | [Depth-First Search]()   | [Memory (Stack vs Heap)]() |
+| [Stacks](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Stack) & [Queues](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Queue)                                                                                 | [Binary Search]()        | [Recursion ]()             |
+| [Heaps](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Heap)                                                                                                                                                                       | [Merge Sort]()           | [Dynamic Programming ]()   |
+| [Vectors](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/Vector), [ArrayLists](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/ArrayList)                                                                        | [Quick Sort]()           | [Big O Time & Space ]()    |
+| [Hash Tables](https://github.com/SalvaChiLlo/CS_Basics/tree/main/DataStructures/HashTable)                                                                                                                                                            |                          |
